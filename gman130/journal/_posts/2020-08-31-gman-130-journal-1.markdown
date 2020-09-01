@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "GMAN 130 Journal 1"
+---
+
+Stell dich vor. Wer bist du? Woher kommst du? Wo bist du im Moment?
+Was und wie lange studierst du schon an Yale? Was machst du gern in
+deiner Freizeit? Warum lernst du Deutsch und was möchtest du in diesem
+Kurs gerne lernen?
+
+<iframe width="1012" height="759" src="https://www.youtube.com/embed/RuT8PFxS478" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
